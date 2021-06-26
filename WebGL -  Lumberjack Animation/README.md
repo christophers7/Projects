@@ -1,3 +1,5 @@
+# Lumberjacks in the Forest - WebGL
+
 The program generates a scene consisting of four lumberjacks around a central tree atop a green square base. 
 There is also a log pile and an additional decorative tree. In the sky is the sun which emits yellow lighting 
 and is surrounded by two white clouds. After using the “Animate” checkbox, the lumberjacks begin to strike the 
