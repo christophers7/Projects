@@ -1,3 +1,5 @@
+# Seaport Project - Java
+
 After running the program, press the “Select File” button and choose your file from the
 directory. Upon selecting a file, the text area will display the data read from the file.
 ![file load](https://user-images.githubusercontent.com/74217280/123525311-47eb3480-d695-11eb-818a-2981f2d9b518.PNG)
